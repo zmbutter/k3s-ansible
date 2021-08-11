@@ -45,7 +45,7 @@ If needed, you can also edit `group_vars/all.yml` to match your environment.
 Start provisioning of the cluster using the following command:
 
 ```bash
-ansible-playbook k3s.yml -i hosts.ini -b -u wayne -K
+ansible-playbook k3s.yml -i hosts.ini -b -u dennis -K
 ```
 
 ## Kubeconfig

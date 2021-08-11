@@ -1,6 +1,6 @@
 ---
 
-ansible_user: wayne
+ansible_user: root
 
 ## - network
 ## .   Networking related configuration
